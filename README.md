@@ -32,7 +32,7 @@ La première étape repose sur l’**ACP**, utilisée pour réduire et synthéti
 - Sélection des variables réellement distinctes
 - Réduction du nombre de variables de **14 à 10**
 
-L’**éboulis des valeurs propres** permet ensuite d’identifier le nombre optimal de composantes à conserver, en fonction du pourcentage d’inertie expliquée.
+L’**éboulis des valeurs propres** permet ensuite d’identifier le nombre optimal de composantes à conserver, en fonction du seuil souhaité.
 
 Les **cercles de corrélations** montrent une bonne représentation des variables sélectionnées.  
 La projection des individus sur un **plan factoriel** met en évidence **trois pays outliers**, conservés dans l’analyse car stratégiques pour le développement commercial.
